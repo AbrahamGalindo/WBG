@@ -4,7 +4,9 @@ This repository contains automation project for test World Bank Group
 ## Prerequisites
 
 -node js
+
 -Playwright
+
 -VSCode
 
 ## Project Structure
